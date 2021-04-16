@@ -5,15 +5,15 @@
 **Project Title:** Face Mask Detection using Deep Learning
 
 **Team Members:** 
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
+- Muhammad Syazani Bin Mohd Shah
+- Muhammad Azri Bin Abdullah Zawawi
+- Muhammad Zulfahmi Bin Zambri
+- Zaki Armindo
 
 
 - [ ] **Objectives:**
-- Break out the project goal into more specific objectives
-- [insert]
+- To develop crypto currencies prediction tool using machine learning
+- T
 - [insert]
 - [insert]
 

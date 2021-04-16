@@ -12,8 +12,8 @@
 
 
 - [ ] **Objectives:**
-- To develop crypto currencies prediction tool using machine learning
-- T
+- To develop crypto currencies prediction tool using machine learning.
+- To show accuracy of A.I prediction
 - [insert]
 - [insert]
 
